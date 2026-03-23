@@ -179,7 +179,7 @@
         <mxCell id="73TInF0jWHx6wngd_YVu-3" parent="_nfEzMEg6g24AL2ski_N-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cash Posted to Accounts Receivable&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="890" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="73TInF0jWHx6wngd_YVu-5" parent="_nfEzMEg6g24AL2ski_N-32" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#006600;" value="&lt;font style=&quot;font-size: 18px; color: rgb(26, 26, 26);&quot;&gt;&lt;b style=&quot;&quot;&gt;END&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="73TInF0jWHx6wngd_YVu-5" parent="_nfEzMEg6g24AL2ski_N-32" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#D5E8D4;strokeColor=#000066;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 18px; color: rgb(26, 26, 26);&quot;&gt;&lt;b style=&quot;&quot;&gt;END&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="75" width="150" x="880" y="175" as="geometry" />
         </mxCell>
         <mxCell id="73TInF0jWHx6wngd_YVu-7" edge="1" parent="_nfEzMEg6g24AL2ski_N-32" source="73TInF0jWHx6wngd_YVu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="73TInF0jWHx6wngd_YVu-5">
